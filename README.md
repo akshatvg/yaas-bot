@@ -1,3 +1,3 @@
-# Yaas Bot
+# YAAS Bot
 
 Website for YAAS Bot.
