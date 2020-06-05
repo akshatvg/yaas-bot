@@ -6,7 +6,7 @@ Official website for YAAS Bot.
 
 <p align="center">
 <a href="https://yaasbot.akshatvg.com">
-<img src="https://github.com/akshatvg/yaas-bot/blob/master/img/about-img.svg" alt="About Illustration"/>
+<img src="https://github.com/akshatvg/yaas-bot/blob/master/img/about-img.png" alt="About Illustration"/>
 </a>
 </p>
 
